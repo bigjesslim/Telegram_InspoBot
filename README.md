@@ -1,7 +1,7 @@
 # Telegram_InspoBot
 A telegram bot built in C++ to respond to user string inputs with relevant inspirational quotes.
-I used the API 'tgbot' created for coding Telegram Bots using C++ here: https://github.com/reo7sp/tgbot-cpp
- I'm a huge amateur here, I just learnt C++ around 3 weeks ago using a short tutorial which I'm not sure is comprehensive, and I just started coding in general a year ago when I started my university degree in Computer Science. 
+I used the API 'tgbot' created for coding Telegram Bots using C++ here: https://github.com/reo7sp/tgbot-cpp. 
+ I'm a huge amateur here, I just learnt C++ around 3 weeks ago using a short tutorial which I'm not sure is comprehensive, and I just started coding in general a year ago when I started my university degree in Computer Science.   
  
 ## Current Features/Functions of the Bot
 The user starts the bot function using '/start' - the bot prompts the user 
@@ -14,8 +14,8 @@ After this, the a feedback interface is initialised and the user is asked if the
 - Some form of yes would redirect the user to the main interface
 - An ambiguous answer not detected to be either yes or no would prompt the user to key in only either one
 - Some form of no would allow the user to choose the reason of this: Was it the correct topic and wrong quote or the wrong topic?
-Wrong Topic: leads user to an interface of inline buttons where they can choose the relevant topic.
-Wrong Quote: would simply generate another random quote of the same topic.
+Wrong Topic: leads user to an interface of inline buttons where they can choose the relevant topic.  
+Wrong Quote: would simply generate another random quote of the same topic.  
 
 ## Extra features
 After every quote is generated, the user is asked if they want to add it to their favourites list - which they can view using the command '\favourites'
