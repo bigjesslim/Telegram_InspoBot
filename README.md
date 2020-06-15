@@ -13,7 +13,7 @@ and this brings us to the main interface where:
 After this, the a feedback interface is initialised and the user is asked if the quote was useful
 - Some form of yes would redirect the user to the main interface
 - An ambiguous answer not detected to be either yes or no would prompt the user to key in only either one
-- Some form of no would allow the user to choose the reason of this: Was it the correct topic and wrong quote or the wrong topic?
+- Some form of no would allow the user to choose the reason of this: Was it the correct topic and wrong quote or the wrong topic?  
 Wrong Topic: leads user to an interface of inline buttons where they can choose the relevant topic.  
 Wrong Quote: would simply generate another random quote of the same topic.  
 
