@@ -1,7 +1,8 @@
 # Telegram_InspoBot
-A telegram bot built in C++ to respond to user string inputs with relevant inspirational quotes.
-I used the API 'tgbot' created for coding Telegram Bots using C++ here: https://github.com/reo7sp/tgbot-cpp. 
- I'm a huge amateur here, I just learnt C++ around 3 weeks ago using a short tutorial which I'm not sure is comprehensive, and I just started coding in general a year ago when I started my university degree in Computer Science.   
+A telegram bot built in C++ to respond to user string inputs with relevant inspirational quotes.  
+I used the API 'tgbot' created for coding Telegram Bots using C++ here: https://github.com/reo7sp/tgbot-cpp.   
+I'm a huge amateur here, I just learnt C++ around 3 weeks ago using a short tutorial which I'm not sure is comprehensive, and I just started coding in general a year ago when I started my university degree in Computer Science.  
+Additionally, I coded and ran this program a Macbook Air on OSX 10.15 Catalina. 
  
 ## Current Features/Functions of the Bot
 The user starts the bot function using '/start' - the bot prompts the user 
